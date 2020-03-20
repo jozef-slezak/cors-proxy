@@ -9,6 +9,10 @@ Namely, it blocks requests that don't look like valid git requests.
 
 ## Installation
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+or
+
 ```sh
 npm install @isomorphic-git/cors-proxy
 ```
